@@ -1,0 +1,6 @@
+Color of everything,-1,(See documentation to see all the color codes)
+Fake screen refresh/Flashing images,0,"0=true, 1=false"
+Beep sound,bipSnd,Must be .ogg
+Prebattle sound,preBattle,Must be .ogg
+Battle music,warcry8bit,Must be .ogg
+Enemy sprite test,thisGuy,Must be .png

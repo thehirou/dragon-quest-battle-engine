@@ -1,0 +1,1 @@
+if room=errorRoom game_restart()

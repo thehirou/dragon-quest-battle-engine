@@ -1,0 +1,12 @@
+Pancake,Cola,<--LIMIT,AMOUNT-->,2,1,<--LIMIT,INFO-->,The amount of X item has to,-,"If your amount is a string, there will be a GMS crash."
+Med. Herb,Coppersword,<--LIMIT,AMOUNT-->,2,3,<--LIMIT,INFO-->,correspond with the position,-,"If your amount is 0 or <0, there will be a DQBE error screen."
+Grass,Apple,<--LIMIT,AMOUNT-->,4,2,<--LIMIT,INFO-->,in the cells. For Example:,-,The crash/error will happen when you select the object
+Sandwich,Slime tears,<--LIMIT,AMOUNT-->,5,5,<--LIMIT,INFO-->,4 Apples=,-,If the illegal ammount is located in 1E the GMS crash will be instant.
+Slime Cr.,Bread,<--LIMIT,AMOUNT-->,7,3,<--LIMIT,INFO-->,B3 - Apple,-,Leaving the cell blank is also considered as a illegal value.
+AK-47,Pocket-Child,<--LIMIT,AMOUNT-->,8,7,<--LIMIT,INFO-->,F3 - 4,-,
+Boom-rng,C. Lrg. Spoon,<--LIMIT,AMOUNT-->,9,8,<--LIMIT,INFO-->,(If you made your object non,-,
+My dad,NASA S.Cmptr.,<--LIMIT,AMOUNT-->,1,1,<--LIMIT,INFO-->,consumable this wouldn't,-,
+Wazowski,,<--LIMIT,AMOUNT-->,3,4,<--LIMIT,INFO-->,be neccesary ig),-,
+You,can,,,3,3,,,,,
+add,more,,,3,3,,,,,
+rows,,,,3,3,,,,,
